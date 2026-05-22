@@ -1,0 +1,5 @@
+scenario,rows,cols,completed_delivery,path_length,total_reward,pickup_step,delivery_step,wait_count,dynamic_collision_count,final_rolling_success_rate
+food_court,12,15,True,54,74.0,32,54,2,0,0.91
+warehouse_cargo,17,20,True,56,65.0,38,56,5,0,0.95
+mall_delivery,15,19,True,44,83.0,30,44,1,0,0.99
+crowded_corridor,12,16,True,56,63.0,24,56,9,0,0.98

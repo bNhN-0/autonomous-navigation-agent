@@ -1,0 +1,29 @@
+{
+  "random_policy": {
+    "success_rate": 0.0,
+    "average_reward": -6160.875,
+    "average_steps": 300.0,
+    "collision_count": 2800,
+    "penalty_zone_visits": 354,
+    "pickup_success_rate": 0.0,
+    "delivery_success_rate": 0.104
+  },
+  "shortest_path_policy": {
+    "success_rate": 0.0,
+    "average_reward": -1526.0,
+    "average_steps": 37.0,
+    "collision_count": 720,
+    "penalty_zone_visits": 96,
+    "pickup_success_rate": 0.0,
+    "delivery_success_rate": 0.0
+  },
+  "q_learning_policy": {
+    "success_rate": 1.0,
+    "average_reward": 83.0,
+    "average_steps": 44.0,
+    "collision_count": 0,
+    "penalty_zone_visits": 48,
+    "pickup_success_rate": 1.0,
+    "delivery_success_rate": 1.0
+  }
+}

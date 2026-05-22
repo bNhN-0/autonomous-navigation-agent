@@ -1,0 +1,6481 @@
+[
+  {
+    "step": 0,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 1,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 2,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 3,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 4,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 5,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 6,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 7,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 8,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 9,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 10,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 11,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 12,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 13,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 14,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 15,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 16,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 17,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 18,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 19,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 20,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 21,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 22,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 23,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 24,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 25,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 26,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 27,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 28,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 29,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 30,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 31,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 32,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 33,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 34,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 35,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 36,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 37,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 38,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 39,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 40,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 41,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 42,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 43,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 44,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 45,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 46,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 47,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 48,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 49,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 50,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 51,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 52,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 53,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 54,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 55,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 56,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 57,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 58,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 59,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 60,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 61,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 62,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 63,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 64,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 65,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 66,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 67,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 68,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 69,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 70,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 71,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 72,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 73,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 74,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 75,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 76,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 77,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 78,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 79,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 80,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 81,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 82,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 83,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 84,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 85,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 86,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 87,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 88,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 89,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 90,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 91,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 92,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 93,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 94,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 95,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 96,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 97,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 98,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 99,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 100,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 101,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 102,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 103,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 104,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 105,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 106,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 107,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 108,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 109,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 110,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 111,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 112,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 113,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 114,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 115,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 116,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 117,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 118,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 119,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 120,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 121,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 122,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 123,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 124,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 125,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 126,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 127,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 128,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 129,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 130,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 131,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 132,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 133,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 134,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 135,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 136,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 137,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 138,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 139,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 140,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 141,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 142,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 143,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 144,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 145,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 146,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 147,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 148,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 149,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 150,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 151,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 152,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 153,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 154,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 155,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 156,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 157,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 158,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 159,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 160,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 161,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 162,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 163,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 164,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 165,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 166,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 167,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 168,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 169,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 170,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 171,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 172,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 173,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 174,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 175,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 176,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 177,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 178,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 179,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 180,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 181,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 182,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 183,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 184,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 185,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 186,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 187,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 188,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 189,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 190,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 191,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 192,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 193,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 194,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 195,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 196,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 197,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 198,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 199,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 200,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 201,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 202,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 203,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 204,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 205,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 206,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 207,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 208,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 209,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 210,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 211,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 212,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 213,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 214,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 215,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 216,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 217,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 218,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 219,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 220,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 221,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 222,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 223,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 224,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 225,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 226,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 227,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 228,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 229,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 230,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 231,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 232,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 233,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 234,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 235,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 236,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 237,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 238,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 239,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 240,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 241,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 242,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 243,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 244,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 245,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 246,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 247,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 248,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 249,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 250,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 251,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 252,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 253,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 254,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 255,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 256,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 257,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 258,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 259,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 260,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 261,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 262,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 263,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 264,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 265,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 266,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 267,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 268,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 269,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 270,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 271,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 272,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 273,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 274,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 275,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 276,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 277,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 278,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 279,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 280,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 281,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 282,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 283,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 284,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 285,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 286,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 287,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 288,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 289,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 290,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 291,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 292,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 293,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 294,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 295,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 296,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 297,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 298,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 299,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 300,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 301,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 302,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 303,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 304,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 305,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 306,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 307,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 308,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 309,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 310,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 311,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 312,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 313,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 314,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 315,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 316,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 317,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 318,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 319,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 320,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 321,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 322,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 323,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          15
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 324,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          1,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 325,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          14
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          2,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 326,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 327,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 328,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 329,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 330,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 331,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          11
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 332,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 333,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 334,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          9,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 335,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          8,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 336,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          7,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 337,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          8
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          6,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 338,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          5,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 339,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          9
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          4,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 340,
+    "obstacles": [
+      {
+        "id": "hallway-runner",
+        "position": [
+          8,
+          10
+        ]
+      },
+      {
+        "id": "pedestrian-surge",
+        "position": [
+          3,
+          15
+        ]
+      }
+    ]
+  }
+]

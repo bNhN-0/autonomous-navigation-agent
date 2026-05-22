@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+:root {
+  --background: #15181c;
+  --foreground: #f4f4f5;
+  --scene-background: #161a1f;
+  --panel-background: #1c2128;
+  --card-background: #232933;
+  --tile-background: #2b3340;
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --text-secondary: #c1c1c9;
+  --text-muted: #9b9ba5;
+  --font-display: "Aptos", "Segoe UI Variable Display", "Trebuchet MS", sans-serif;
+  --font-code: "Consolas", "SFMono-Regular", "Liberation Mono", monospace;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-display);
+  --font-mono: var(--font-code);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--background);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-display);
+  text-rendering: optimizeLegibility;
+  margin: 0;
+}
+
+::selection {
+  background: rgba(125, 211, 168, 0.28);
+  color: #fafafa;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.14) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}

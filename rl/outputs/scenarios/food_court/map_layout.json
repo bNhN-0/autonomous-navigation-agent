@@ -1,0 +1,303 @@
+{
+  "rows": 12,
+  "cols": 15,
+  "start": [
+    10,
+    1
+  ],
+  "pickup": [
+    1,
+    12
+  ],
+  "delivery": [
+    10,
+    13
+  ],
+  "obstacles": [
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      10
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      3,
+      10
+    ],
+    [
+      3,
+      11
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      6,
+      10
+    ],
+    [
+      6,
+      11
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      7,
+      6
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      7,
+      10
+    ],
+    [
+      7,
+      11
+    ],
+    [
+      9,
+      4
+    ],
+    [
+      9,
+      5
+    ],
+    [
+      9,
+      8
+    ],
+    [
+      9,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "penalty_zones": [
+    {
+      "cell": [
+        4,
+        4
+      ],
+      "penalty": -3,
+      "label": "Lunch queue",
+      "severity": "crowded"
+    },
+    {
+      "cell": [
+        4,
+        5
+      ],
+      "penalty": -3,
+      "label": "Lunch queue",
+      "severity": "crowded"
+    },
+    {
+      "cell": [
+        4,
+        6
+      ],
+      "penalty": -3,
+      "label": "Lunch queue",
+      "severity": "crowded"
+    },
+    {
+      "cell": [
+        4,
+        7
+      ],
+      "penalty": -3,
+      "label": "Tray traffic",
+      "severity": "crowded"
+    },
+    {
+      "cell": [
+        5,
+        7
+      ],
+      "penalty": -3,
+      "label": "Tray traffic",
+      "severity": "crowded"
+    },
+    {
+      "cell": [
+        8,
+        6
+      ],
+      "penalty": -10,
+      "label": "Spill hazard",
+      "severity": "danger"
+    }
+  ],
+  "dynamic_obstacles": [
+    {
+      "id": "server-cart",
+      "label": "Service Cart",
+      "kind": "cart",
+      "path": [
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          4,
+          8
+        ],
+        [
+          4,
+          9
+        ],
+        [
+          4,
+          10
+        ],
+        [
+          4,
+          11
+        ],
+        [
+          4,
+          12
+        ],
+        [
+          4,
+          13
+        ]
+      ],
+      "speed": 1,
+      "color": "#f97316"
+    },
+    {
+      "id": "customer-flow",
+      "label": "Customer Flow",
+      "kind": "person",
+      "path": [
+        [
+          1,
+          14
+        ],
+        [
+          2,
+          14
+        ],
+        [
+          3,
+          14
+        ],
+        [
+          4,
+          14
+        ],
+        [
+          5,
+          14
+        ],
+        [
+          6,
+          14
+        ],
+        [
+          7,
+          14
+        ],
+        [
+          8,
+          14
+        ],
+        [
+          9,
+          14
+        ],
+        [
+          10,
+          14
+        ]
+      ],
+      "speed": 1,
+      "color": "#fb7185"
+    }
+  ],
+  "dynamic_cycle_length": 72
+}

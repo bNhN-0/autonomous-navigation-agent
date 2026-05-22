@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment files
+.env
+.env.*
+
+# Node / Next.js
+visualizer/node_modules/
+visualizer/.next/
+visualizer/out/
+visualizer/.turbo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+rl/dqn/outputs/custom_dqn_rollout.json
+rl/dqn/outputs/sample_custom_map.json
+rl/dqn/outputs/dqn_training_metrics.csv
+rl/dqn/outputs/dqn_eval_summary.json
+
+# Local build / OS files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,857 @@
+[
+  {
+    "step": 0,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          10
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          9,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 1,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          11
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 2,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          12
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 3,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          13
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 4,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          14
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 5,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          15
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 6,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          16
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 7,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          15
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 8,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          14
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          9,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 9,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          13
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 10,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          12
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 11,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          11
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 12,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          10
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 13,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          11
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 14,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          12
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 15,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          13
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 16,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          14
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          9,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 17,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          15
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 18,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          16
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 19,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          15
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 20,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          14
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 21,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          13
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 22,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          12
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 23,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          11
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 24,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          10
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          9,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 25,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          11
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 26,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          12
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 27,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          13
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 28,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          14
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 29,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          15
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 30,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          16
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 31,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          15
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 32,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          14
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          9,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 33,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          13
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 34,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          12
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 35,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          11
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 36,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          10
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 37,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          11
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 38,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          12
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 39,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          13
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 40,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          14
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          9,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 41,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          15
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 42,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          16
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          11,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 43,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          15
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          12,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 44,
+    "obstacles": [
+      {
+        "id": "mall-crowd",
+        "position": [
+          4,
+          14
+        ]
+      },
+      {
+        "id": "cleaning-cart",
+        "position": [
+          13,
+          14
+        ]
+      }
+    ]
+  }
+]

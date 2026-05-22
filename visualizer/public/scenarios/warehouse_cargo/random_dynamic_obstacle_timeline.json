@@ -1,0 +1,6101 @@
+[
+  {
+    "step": 0,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          1
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "step": 1,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 2,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 3,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 4,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 5,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 6,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 7,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 8,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 9,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 10,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 11,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 12,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 13,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 14,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 15,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 16,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 17,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          18
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "step": 18,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 19,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 20,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 21,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 22,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 23,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 24,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 25,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 26,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 27,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 28,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 29,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 30,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 31,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 32,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 33,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 34,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          1
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "step": 35,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 36,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 37,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 38,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 39,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 40,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 41,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 42,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 43,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 44,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 45,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 46,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 47,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 48,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 49,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 50,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 51,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          18
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "step": 52,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 53,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 54,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 55,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 56,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 57,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 58,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 59,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 60,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 61,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 62,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 63,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 64,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 65,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 66,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 67,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 68,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          1
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "step": 69,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 70,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 71,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 72,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 73,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 74,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 75,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 76,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 77,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 78,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 79,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 80,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 81,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 82,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 83,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 84,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 85,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          18
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "step": 86,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 87,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 88,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 89,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 90,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 91,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 92,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 93,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 94,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 95,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 96,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 97,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 98,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 99,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 100,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 101,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 102,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          1
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "step": 103,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 104,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 105,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 106,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 107,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 108,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 109,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 110,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 111,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 112,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 113,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 114,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 115,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 116,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 117,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 118,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 119,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          18
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "step": 120,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 121,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 122,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 123,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 124,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 125,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 126,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 127,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 128,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 129,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 130,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 131,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 132,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 133,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 134,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 135,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 136,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          1
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "step": 137,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 138,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 139,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 140,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 141,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 142,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 143,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 144,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 145,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 146,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 147,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 148,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 149,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 150,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 151,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 152,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 153,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          18
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "step": 154,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 155,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 156,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 157,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 158,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 159,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 160,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 161,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 162,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 163,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 164,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 165,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 166,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 167,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 168,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 169,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 170,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          1
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "step": 171,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 172,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 173,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 174,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 175,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 176,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 177,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 178,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 179,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 180,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 181,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 182,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 183,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 184,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 185,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 186,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 187,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          18
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "step": 188,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 189,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 190,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 191,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 192,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 193,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 194,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 195,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 196,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 197,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 198,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 199,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 200,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 201,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 202,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 203,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 204,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          1
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "step": 205,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 206,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 207,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 208,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 209,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 210,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 211,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 212,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 213,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 214,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 215,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 216,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 217,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 218,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 219,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 220,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 221,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          18
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "step": 222,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 223,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 224,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 225,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 226,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 227,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 228,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 229,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 230,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 231,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 232,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 233,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 234,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 235,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 236,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 237,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 238,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          1
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "step": 239,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 240,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 241,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 242,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 243,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 244,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 245,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 246,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 247,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 248,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 249,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 250,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 251,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 252,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 253,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 254,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 255,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          18
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "step": 256,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 257,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 258,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 259,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 260,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 261,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 262,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 263,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 264,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 265,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 266,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 267,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 268,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 269,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 270,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 271,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 272,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          1
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "step": 273,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 274,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 275,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 276,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 277,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 278,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 279,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 280,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 281,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 282,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 283,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 284,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 285,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 286,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 287,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 288,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 289,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          18
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "step": 290,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          17
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "step": 291,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          16
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "step": 292,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "step": 293,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 294,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 295,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 296,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 297,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 298,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 299,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 300,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 301,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 302,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 303,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 304,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 305,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 306,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          1
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "step": 307,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          2
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "step": 308,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          3
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "step": 309,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          4
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "step": 310,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          5
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "step": 311,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          6
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "step": 312,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          7
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "step": 313,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "step": 314,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "step": 315,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "step": 316,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          11
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "step": 317,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          12
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "step": 318,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          13
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "step": 319,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          14
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "step": 320,
+    "obstacles": [
+      {
+        "id": "forklift-east",
+        "position": [
+          5,
+          15
+        ]
+      },
+      {
+        "id": "forklift-south",
+        "position": [
+          10,
+          15
+        ]
+      }
+    ]
+  }
+]
