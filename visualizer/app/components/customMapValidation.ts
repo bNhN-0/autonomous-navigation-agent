@@ -136,6 +136,7 @@ export function isMissionReachable(mapConfig: CustomMapConfig) {
 export function validateCustomMap(mapConfig: CustomMapConfig) {
   const errors = new Set<string>();
   const obstacleKeys = new Set(mapConfig.obstacles.map(cellKey));
+  const dynamicLabelSet = new Set<string>();
 
   if (!mapConfig.start) {
     errors.add("Place a start cell before running Planner-Guided DQN.");
@@ -173,6 +174,18 @@ export function validateCustomMap(mapConfig: CustomMapConfig) {
   }
 
   for (const obstacle of mapConfig.dynamic_obstacles) {
+    const normalizedLabel = (obstacle.label ?? "").trim().replace(/\s+/g, " ");
+
+    if (!normalizedLabel) {
+      errors.add("Each dynamic obstacle must have a name.");
+    } else {
+      const labelKey = normalizedLabel.toLowerCase();
+      if (dynamicLabelSet.has(labelKey)) {
+        errors.add("Dynamic obstacle names must be unique.");
+      }
+      dynamicLabelSet.add(labelKey);
+    }
+
     const pathError = validateDynamicObstaclePath(mapConfig, obstacle);
     if (pathError) {
       errors.add(pathError);

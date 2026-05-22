@@ -16,10 +16,52 @@ import type {
 } from "../components/types";
 
 const DYNAMIC_DEFAULTS = {
-  person: { label: "Moving Person", color: "#ef4444" },
-  cart: { label: "Service Cart", color: "#f59e0b" },
-  blocker: { label: "Moving Blocker", color: "#a1a1aa" },
+  person: { label: "Person", color: "#ef4444" },
+  cart: { label: "Cart", color: "#f59e0b" },
+  blocker: { label: "Blocker", color: "#a1a1aa" },
 } satisfies Record<NonNullable<DynamicObstacle["kind"]>, { label: string; color: string }>;
+
+function normalizeObstacleLabel(label: string) {
+  return label.trim().replace(/\s+/g, " ");
+}
+
+function findNextDynamicLabel(
+  obstacles: DynamicObstacle[],
+  baseLabel: string,
+  excludeObstacleId?: string,
+) {
+  const normalizedBase = normalizeObstacleLabel(baseLabel);
+  const escapedBase = normalizedBase.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const pattern = new RegExp(`^${escapedBase}\\s+(\\d+)$`, "i");
+  let maxNumber = 0;
+
+  for (const obstacle of obstacles) {
+    if (obstacle.id === excludeObstacleId) {
+      continue;
+    }
+
+    const normalizedLabel = normalizeObstacleLabel(obstacle.label ?? "");
+    const match = pattern.exec(normalizedLabel);
+    if (match) {
+      maxNumber = Math.max(maxNumber, Number(match[1]));
+    }
+  }
+
+  return `${normalizedBase} ${maxNumber + 1}`;
+}
+
+function isDuplicateDynamicLabel(
+  obstacles: DynamicObstacle[],
+  label: string,
+  excludeObstacleId?: string,
+) {
+  const normalizedLabel = normalizeObstacleLabel(label).toLowerCase();
+
+  return obstacles.some((obstacle) => (
+    obstacle.id !== excludeObstacleId
+    && normalizeObstacleLabel(obstacle.label ?? "").toLowerCase() === normalizedLabel
+  ));
+}
 
 function samePenalty(a: PenaltyZone, cell: GridPosition) {
   return a.cell[0] === cell[0] && a.cell[1] === cell[1];
@@ -97,6 +139,7 @@ export type CustomMapEditorController = {
   handleColsChange: (cols: number) => void;
   handleAddDynamicObstacle: () => void;
   handleDynamicKindChange: (kind: NonNullable<DynamicObstacle["kind"]>) => void;
+  handleDynamicLabelChange: (label: string) => void;
   handleClearSelectedPath: () => void;
   handleRemoveSelectedObstacle: () => void;
   updateSelectedDynamicObstacle: (updater: (obstacle: DynamicObstacle) => DynamicObstacle) => void;
@@ -359,10 +402,11 @@ export function useCustomMapEditor(
   const handleAddDynamicObstacle = () => {
     const nextId = createDynamicObstacleId(mapConfig.dynamic_obstacles);
     const nextMap = cloneMapConfig(mapConfig);
+    const label = findNextDynamicLabel(nextMap.dynamic_obstacles, DYNAMIC_DEFAULTS.person.label);
 
     nextMap.dynamic_obstacles.push({
       id: nextId,
-      label: DYNAMIC_DEFAULTS.person.label,
+      label,
       kind: "person",
       path: [],
       speed: 1,
@@ -380,18 +424,44 @@ export function useCustomMapEditor(
       const previousKind = obstacle.kind ?? "person";
       const currentDefaults = DYNAMIC_DEFAULTS[previousKind];
       const nextDefaults = DYNAMIC_DEFAULTS[kind];
+      const currentAutoLabelPattern = new RegExp(`^${currentDefaults.label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\s+\\d+$`, "i");
+      const shouldReplaceLabel = !obstacle.label || currentAutoLabelPattern.test(normalizeObstacleLabel(obstacle.label));
 
       return {
         ...obstacle,
         kind,
-        label: !obstacle.label || obstacle.label === currentDefaults.label
-          ? nextDefaults.label
+        label: shouldReplaceLabel
+          ? findNextDynamicLabel(mapConfig.dynamic_obstacles, nextDefaults.label, obstacle.id)
           : obstacle.label,
         color: !obstacle.color || obstacle.color === currentDefaults.color
           ? nextDefaults.color
           : obstacle.color,
       };
     });
+  };
+
+  const handleDynamicLabelChange = (label: string) => {
+    if (!activeDynamicObstacleId) {
+      return;
+    }
+
+    const normalizedLabel = normalizeObstacleLabel(label);
+
+    if (!normalizedLabel) {
+      setEditorMessage("Dynamic obstacle name cannot be empty.");
+      return;
+    }
+
+    if (isDuplicateDynamicLabel(mapConfig.dynamic_obstacles, normalizedLabel, activeDynamicObstacleId)) {
+      setEditorMessage("Dynamic obstacle names must be unique.");
+      return;
+    }
+
+    setEditorMessage(null);
+    updateSelectedDynamicObstacle((obstacle) => ({
+      ...obstacle,
+      label: normalizedLabel,
+    }));
   };
 
   const handleClearSelectedPath = () => {
@@ -428,6 +498,7 @@ export function useCustomMapEditor(
     handleColsChange,
     handleAddDynamicObstacle,
     handleDynamicKindChange,
+    handleDynamicLabelChange,
     handleClearSelectedPath,
     handleRemoveSelectedObstacle,
     updateSelectedDynamicObstacle,

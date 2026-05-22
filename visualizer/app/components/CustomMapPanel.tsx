@@ -127,14 +127,9 @@ export default function CustomMapPanel({
                 <>
                   <div className="mt-3 grid gap-2 sm:grid-cols-2">
                     <FieldInput
-                      label="Label"
+                      label="Name"
                       value={editor.activeDynamicObstacle.label ?? ""}
-                      onChange={(value) => {
-                        editor.updateSelectedDynamicObstacle((obstacle) => ({
-                          ...obstacle,
-                          label: value,
-                        }));
-                      }}
+                      onChange={editor.handleDynamicLabelChange}
                     />
                     <FieldSelectText
                       label="Kind"
