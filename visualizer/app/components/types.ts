@@ -4,8 +4,7 @@ export type ScenarioId =
   | "food_court"
   | "warehouse_cargo"
   | "mall_delivery"
-  | "crowded_corridor"
-  | "logistics_hub";
+  | "crowded_corridor";
 
 export type CameraMode = "orbit" | "top" | "follow";
 export type MissionPhase = "to_pickup" | "delivering" | "waiting" | "complete";
@@ -55,12 +54,6 @@ export const SCENARIOS: ScenarioOption[] = [
     name: "Crowded Corridor",
     blurb: "Penalty-heavy hallways that reward safer, cost-aware navigation.",
     accent: "#f97316",
-  },
-  {
-    id: "logistics_hub",
-    name: "Logistics Hub",
-    blurb: "Depot routing through conveyors, queues, and moving service traffic.",
-    accent: "#34d399",
   },
 ];
 

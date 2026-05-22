@@ -100,89 +100,99 @@ export default function DeliveryAgent({
   return (
     <group ref={agentRef}>
       <group ref={bodyRef} scale={0.94}>
-        <RoundedBox args={[0.92, 0.16, 1.12]} radius={0.08} smoothness={6}>
-          <meshStandardMaterial color="#d2d8df" roughness={0.96} metalness={0.02} />
+        <RoundedBox args={[0.94, 0.18, 1.28]} radius={0.12} smoothness={6} position={[0, 0.02, 0]}>
+          <meshStandardMaterial color="#c43c32" roughness={0.72} metalness={0.18} />
         </RoundedBox>
 
         <RoundedBox
-          args={[0.52, 0.18, 0.38]}
+          args={[0.58, 0.22, 0.54]}
           radius={0.06}
           smoothness={6}
-          position={[0, 0.16, -0.18]}
+          position={[0, 0.19, -0.08]}
         >
-          <meshStandardMaterial color="#8a93a0" roughness={0.94} metalness={0.03} />
+          <meshStandardMaterial color="#d6dde7" roughness={0.28} metalness={0.08} />
         </RoundedBox>
 
         <RoundedBox
-          args={[0.56, 0.03, 0.12]}
+          args={[0.54, 0.04, 0.12]}
           radius={0.03}
           smoothness={4}
-          position={[0, 0.09, 0.49]}
+          position={[0, 0.1, 0.59]}
         >
-          <meshStandardMaterial color="#252d37" roughness={0.92} />
+          <meshStandardMaterial color="#20262e" roughness={0.88} />
         </RoundedBox>
 
-        <mesh ref={statusStripRef} position={[0, 0.1, 0.52]}>
+        <mesh ref={statusStripRef} position={[0, 0.11, 0.6]}>
           <boxGeometry args={[0.36, 0.022, 0.02]} />
           <meshStandardMaterial color="#93c5fd" roughness={0.88} />
         </mesh>
 
         <RoundedBox
-          args={[0.54, 0.05, 0.42]}
+          args={[0.72, 0.05, 0.76]}
           radius={0.03}
           smoothness={4}
-          position={[0, 0.16, 0.16]}
+          position={[0, 0.08, 0.04]}
         >
-          <meshStandardMaterial color="#98a2ae" roughness={0.95} />
+          <meshStandardMaterial color="#161b22" roughness={0.42} metalness={0.22} />
         </RoundedBox>
 
         <RoundedBox
-          args={[0.66, 0.12, 0.38]}
+          args={[0.74, 0.11, 0.36]}
           radius={0.04}
           smoothness={4}
-          position={[0, 0.12, 0.17]}
+          position={[0, 0.13, -0.32]}
         >
-          <meshStandardMaterial color="#6f7886" roughness={0.97} />
+          <meshStandardMaterial color="#2b313a" roughness={0.5} metalness={0.14} />
         </RoundedBox>
 
-        <mesh position={[0, 0.16, -0.42]}>
-          <boxGeometry args={[0.4, 0.02, 0.03]} />
-          <meshStandardMaterial color="#e2e7ec" roughness={0.9} />
+        <mesh position={[0, 0.11, -0.62]}>
+          <boxGeometry args={[0.56, 0.03, 0.04]} />
+          <meshStandardMaterial color="#e8edf3" roughness={0.7} />
         </mesh>
 
-        <mesh position={[0, 0.19, -0.28]}>
-          <boxGeometry args={[0.26, 0.015, 0.02]} />
-          <meshStandardMaterial color="#5b6574" roughness={0.92} />
+        <mesh position={[0, 0.13, 0.66]}>
+          <boxGeometry args={[0.52, 0.03, 0.04]} />
+          <meshStandardMaterial color="#f4f7fb" roughness={0.68} />
         </mesh>
 
-        <group ref={cargoRef} position={[0, 0.28, 0.18]} scale={[0.001, 0.001, 0.001]}>
-          <RoundedBox args={[0.34, 0.18, 0.28]} radius={0.04} smoothness={4}>
-            <meshStandardMaterial color="#f1d7a1" roughness={0.92} />
+        <mesh position={[-0.21, 0.18, 0.66]}>
+          <boxGeometry args={[0.11, 0.03, 0.03]} />
+          <meshStandardMaterial color="#f4f7fb" roughness={0.68} />
+        </mesh>
+
+        <mesh position={[0.21, 0.18, 0.66]}>
+          <boxGeometry args={[0.11, 0.03, 0.03]} />
+          <meshStandardMaterial color="#f4f7fb" roughness={0.68} />
+        </mesh>
+
+        <group ref={cargoRef} position={[0, 0.26, -0.02]} scale={[0.001, 0.001, 0.001]}>
+          <RoundedBox args={[0.3, 0.16, 0.24]} radius={0.04} smoothness={4}>
+            <meshStandardMaterial color="#f2d29c" roughness={0.9} />
           </RoundedBox>
-          <mesh position={[0, 0, 0]}>
-            <boxGeometry args={[0.26, 0.03, 0.3]} />
-            <meshStandardMaterial color="#b78b57" roughness={0.94} />
+          <mesh position={[0, -0.01, 0]}>
+            <boxGeometry args={[0.24, 0.03, 0.26]} />
+            <meshStandardMaterial color="#b48651" roughness={0.92} />
           </mesh>
-          <mesh position={[0, 0.06, 0.14]}>
-            <boxGeometry args={[0.14, 0.04, 0.03]} />
-            <meshStandardMaterial color="#9a744a" roughness={0.94} />
+          <mesh position={[0, 0.05, 0.12]}>
+            <boxGeometry args={[0.12, 0.03, 0.03]} />
+            <meshStandardMaterial color="#93693f" roughness={0.94} />
           </mesh>
         </group>
 
         {[ 
-          [-0.34, -0.07, -0.32],
-          [0.34, -0.07, -0.32],
-          [-0.34, -0.07, 0.3],
-          [0.34, -0.07, 0.3],
+          [-0.35, -0.07, -0.38],
+          [0.35, -0.07, -0.38],
+          [-0.35, -0.07, 0.4],
+          [0.35, -0.07, 0.4],
         ].map((wheel, index) => (
           <group key={index} position={wheel as [number, number, number]}>
             <mesh rotation={[0, 0, Math.PI / 2]}>
-              <cylinderGeometry args={[0.085, 0.085, 0.08, 16]} />
-              <meshStandardMaterial color="#1d232b" roughness={0.95} />
+              <cylinderGeometry args={[0.1, 0.1, 0.1, 18]} />
+              <meshStandardMaterial color="#161b21" roughness={0.94} />
             </mesh>
             <mesh position={[0, 0.025, 0]}>
-              <boxGeometry args={[0.12, 0.05, 0.14]} />
-              <meshStandardMaterial color="#444d59" roughness={0.95} />
+              <cylinderGeometry args={[0.04, 0.04, 0.11, 16]} />
+              <meshStandardMaterial color="#aab4c1" roughness={0.45} metalness={0.3} />
             </mesh>
           </group>
         ))}
